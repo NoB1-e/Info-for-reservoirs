@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption');
+
+body {
+    background-color: rgb(82, 82, 82);
+}
+   
+
+
+
+.menu_text {
+    background-color: rgb(201, 201, 201);
+    height: 130px;
+    width: 1262,5px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 20px;
+    text-align:center;
+}
+
+
+
+
+
+.menu_lakes {
+    font-family: 'PT Sans Caption', sans-serif;
+    margin-left:15px ;
+    margin-right:70px ;   
+}
+
+
+.menu_rivers {
+    font-family: 'PT Sans Caption', sans-serif;
+    margin-left:15px ;
+    margin-right:200px ;  
+}
+
+
+.menu_waterfalls {
+    font-family: 'PT Sans Caption', sans-serif;
+    margin-left:15px ;
+    margin-right:70px ;
+}
+
+
+.menu_seas {
+    font-family: 'PT Sans Caption', sans-serif;
+    margin-left:15px ;
+    margin-right:70px ;
+}
+
+.logo { 
+    width:70px ;
+    height: 70px ;
+    margin-top: 20px;
+    margin-right: 90px;
+    
+}
+
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+.baykal {
+    position: fixed;
+    left: 700px;
+    top: 6cm;
+
+    
+}
+
+.youtube{
+    position: relative;
+    bottom: 6cm;
+    left: 2mm;
+}
+.tiktok{
+    position: relative;
+    bottom: 6cm;
+    left: 2mm;
+}
+
+
+hr{
+    position: relative;
+    bottom: 3mm;
+    height: 8px;
+    background-color: rgb(201, 201, 201);
+}
+
+
+.baykaltext {
+    color: white;
+}
+
+.img_baykal {
+    position: relative;
+    left: 75mm;
+    bottom:4cm ;
+    border-radius: 30px;
+    
+}
+
